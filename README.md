@@ -1,3 +1,3 @@
-# hello-world
-Just going though the intro
-I'm too sexy
+# Hello World
+
+This is a simple java web application to desplay hello world text in the browser
